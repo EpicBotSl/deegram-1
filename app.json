@@ -6,33 +6,33 @@
     "telegram",
     "deezer"
   ],
-  "repository": "https://github.com/breakdowns/deegram",
-  "success_url": "https://github.com/breakdowns/deegram",
-  "website": "https://github.com/breakdowns/deegram",
+  "repository": "https://github.com/EpicBotSl/deegram-1",
+  "success_url": "https://github.com/EpicBotSl/deegram-1",
+  "website": "https://github.com/EpicBotSl/deegram-1",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "16884543",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "cc4535cefe1fa2e167d75a5e2ac24246",
       "required": true
     },
     "BOT_TOKEN": {
       "description": "Get this value from @BotFather",
-      "value": "",
+      "value": "5519600132:AAG7DSCDwp2B7ojYAz3rH1pH0dkLj17E_t8",
       "required": true
     },
     "DEEZER_TOKEN": {
       "description": "Get your API token from Deezer",
-      "value": "",
+      "value": "fr3b9096827b27dfb08c8c033efd4f54",
       "required": true
     },
     "OWNER_ID": {
       "description": "Owner Telegram ID",
-      "value": "",
+      "value": "5196689118",
       "required": true
     }
   },
